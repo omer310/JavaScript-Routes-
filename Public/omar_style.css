@@ -1,0 +1,30 @@
+
+img 
+{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    font-size: larger;
+}
+h1{
+    font-style: bold;
+    font-family: monospace;
+}
+p{
+    font-size: larger;
+    font-family: monospace;
+    text-align: justify;
+    text-justify: inter-word;
+}
+ul{
+    font-size: larger;
+    list-style: circle;
+    font-family: monospace;
+}
