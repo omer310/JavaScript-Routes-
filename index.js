@@ -15,7 +15,7 @@ app.get("/Omar", (req, res) => {
 });
 
 app.post("/comment", (req, res) => {
-    res.send(req.body); 
+    	res.send(req.body); 
 });
 
 app.listen(3000, () => console.log("listening on port 3000"));
